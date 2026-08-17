@@ -4,6 +4,8 @@ This repo contains a small set of Magic Eye-style stereogram images made for the
 
 The images were generated at a calculator-safe resolution of **94×63 pixels**, which I found displays more reliably than the full nominal TI-84 Plus LCD resolution of 96×64 when using the normal Pic/image transfer workflow.
 
+![Calculator Magic Eye stereogram](calc_magic.jpeg)
+
 ## Requirements
 
 - TI-84 Plus or compatible monochrome TI-84 calculator
